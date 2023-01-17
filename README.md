@@ -6,17 +6,6 @@
   
  Kelas : TI.22.A.2
 
-## Code latihan "txt" 
- ![gambar](gambar/code1.png) 
-  
- ## Output  
- ![gambar](gambar/code1a.png) 
-  
- ## Code 
- ![gambar](gambar/code2.png) 
-  
- ## Output 
- ![gambar](gambar/code2a.png)
   
  ## DAFTAR ISI <br> 
  | No | Description | Link | 
@@ -32,11 +21,8 @@
  - Membuat string semudah memberi nilai pada sebuah variabel. 
   
  ### Latihan 1 
-  
- ![Soal Latihan 1](https://user-images.githubusercontent.com/115867244/209518488-643ebee6-ed6b-48af-bb5f-08c9196e24d4.png) 
-  
  #### Penjelasan Latihan 1 
- - Untuk menghitung jumlah karakter, gunakan fungsi `len()`. 
+- Untuk menghitung jumlah karakter, gunakan fungsi `len()`. 
   
        # Menghitung jumlah karakternya 
        print(len(txt)) 
@@ -55,38 +41,40 @@
        # Menghilangkan spasi pada text tersebut (HelloWorld) 
        print(txt.replace(" ", "")) 
         
- - Untuk mengubah huruf menjadi besar, gunakan method `upper()`. Sedangkan jika ingin mengubah huruf menjadi kecil, gunakan method `lower()`. 
+- Untuk mengubah huruf menjadi besar, gunakan method `upper()`. Sedangkan jika ingin mengubah huruf menjadi kecil, gunakan method `lower()`. 
   
        # Mengubah text menjadi huruf besar 
        print(txt.upper()) 
        # Mengubah text menjadi huruf kecil 
        print(txt.lower()) 
         
- - Untuk mengganti karakter `'H'` dengan karakter `'J'`, gunakan method `replace()`. 
+- Untuk mengganti karakter `'H'` dengan karakter `'J'`, gunakan method `replace()`. 
   
        # Mengganti karakter H dengan karakter J 
        print(txt.replace("H", "J")) 
        print() 
         
- #### Output Latihan 1 
- ![1](https://user-images.githubusercontent.com/115678251/209728549-66533d53-3cf7-44a5-92e4-402e97fb2913.png) 
-  
-  
-  
+
  ### Latihan 2 
-  
- ![Soal Latihan 2](https://user-images.githubusercontent.com/115867244/209519946-c3b1ec80-a683-48d6-a43b-0dbd2d716631.png) 
-  
  #### Penjelasan Latihan 2 
  Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk menempatkan variable sebelumnya. 
   
        umur = 24 
-       txt = "\nHello, nama saya john, dan umur saya adalah {0} tahun\n" 
+       txt = "\nHello, nama saya Aditya, dan umur saya adalah {0} tahun\n" 
   
        print(txt.format(umur)) 
-        
- #### Output Latihan 2 
- ![2](https://user-images.githubusercontent.com/115678251/209728614-8e1d57be-5b02-497e-9fef-3ee2bcd602bf.png) 
+   
+   ## Code latihan "txt" 
+ ![image](https://user-images.githubusercontent.com/115687055/212793910-7ae5fa11-206b-494f-8bd4-55ff53c93c21.png)
+
+ ## Output  
+ ![gambar](gambar/code1a.png) 
+  
+ ## Code 
+ ![gambar](gambar/code2.png) 
+  
+ ## Output 
+ ![gambar](gambar/code2a.png)
   
   
   
