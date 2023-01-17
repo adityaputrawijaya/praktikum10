@@ -67,13 +67,13 @@
  ![image](https://user-images.githubusercontent.com/115687055/212793910-7ae5fa11-206b-494f-8bd4-55ff53c93c21.png)
 
 ## Output  
- ![gambar](gambar/code1a.png) 
+ ![gambar](gambar/ad1.png) 
   
 ## Code 
- ![gambar](gambar/code2.png) 
+ ![gambar](gambar/ad3.png) 
   
 ## Output 
- ![gambar](gambar/code2a.png)
+ ![gambar](gambar/ad2.png)
   
   
 ## Terima Kasih
