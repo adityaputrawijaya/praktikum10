@@ -5,6 +5,18 @@
  NIM   : 312210207
   
  Kelas : TI.22.A.2
+
+## Code latihan "txt" 
+ ![gambar](gambar/code1.png) 
+  
+ ## Output  
+ ![gambar](gambar/code1a.png) 
+  
+ ## Code 
+ ![gambar](gambar/code2.png) 
+  
+ ## Output 
+ ![gambar](gambar/code2a.png)
   
  ## DAFTAR ISI <br> 
  | No | Description | Link | 
